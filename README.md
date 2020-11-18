@@ -9,3 +9,5 @@ Imagine sitting by the table with one thousand puzzle pieces laid out in front o
 The significance of the singular piece of the puzzle is starting to melt into multitudes. The starting reference point now grows into a field, and soon enough, you are staring at the sunset on some imaginary island. The final piece of the puzzle also rings the death of all puzzle pieces as they get stripped off significance, heightened attention and excessive handling. Hold that thought for a moment about you forgetting that first piece of a puzzle.  
 
 - - -
+
+#2 Dalmatian
