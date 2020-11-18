@@ -11,7 +11,7 @@ The significance of the singular piece of the puzzle is starting to melt into mu
 
 - - -
 
-#2 Dalmatian
+#2 Dalmatian.
 
 ![Fig2](./images/dog.png)
 
@@ -19,7 +19,7 @@ You are staring at this image, and as the title suggests, you are scanning for t
 
 - - -
 
-#3 Untitled
+#3 Untitled.
 
 ![image](./images/fig3.png)
 
