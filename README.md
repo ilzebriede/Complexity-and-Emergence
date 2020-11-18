@@ -13,7 +13,7 @@ The significance of the singular piece of the puzzle is starting to melt into mu
 
 #2 Dalmatian
 
-![image](./images/pup.png)
+![image](./images/dog.png)
 
 You are staring at this image, and as the title suggests, you are scanning for this dog. It suddenly magically lifts off the plot of black and white blobs. As a piece of a puzzle, this canine is emerging whilst detaching itself from the field of the noise.
 
@@ -21,7 +21,7 @@ You are staring at this image, and as the title suggests, you are scanning for t
 
 #3 Untitled
 
-![image](./images/fig3.jpg)
+![image](./images/fig3.png)
 
 As the title already suggests, go and figure. What do you see?
 
