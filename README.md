@@ -1,5 +1,5 @@
 # Complexity-and-Emergence
-A written documentation / final paper in Foundations in Digital Media
+A written documentation / final paper in Foundations in Digital Media (work in progress, unfinished)
 
 
 #1 The analogy of a puzzle.
