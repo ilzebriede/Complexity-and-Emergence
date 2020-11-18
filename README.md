@@ -23,7 +23,7 @@ You are staring at this image, and as the title suggests, you are scanning for t
 
 ![image](./images/fig3.png)
 
-As the title already suggests, go and figure. What do you see?
+What do you see?
 
 - - -
 
