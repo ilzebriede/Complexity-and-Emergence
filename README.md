@@ -21,7 +21,7 @@ You are staring at this image, and as the title suggests, you are scanning for t
 
 #3 Untitled
 
-![image](./images/)
+![image](./images/img3.jpg)
 
 As the title already suggests, go and figure. What do you see?
 
@@ -29,6 +29,6 @@ As the title already suggests, go and figure. What do you see?
 
 #4 Let's go back to the thought about the puzzle piece.
 
-![image](./images/)
+![image](./images/cell6@0.5x-100.jpg)
 
 Look around, does the world look familiar to you today? Imagine this: the world around you is a finished puzzle. All the pieces are working together tirelessly to render a reality you wake up to every morning. Go and take a closer look, actually, why don't you pick a one piece of a puzzle in your own hands. As a side note, by doing that, you have irreversibly erased all the memory about everything, including the world itself. All that you got is this one piece of a puzzle against the gigantic unknown. How does this piece look to you? What can you tell about it? What strategy, a better or worst, will you apply to learn about this complex new world that you are about to discover?   
