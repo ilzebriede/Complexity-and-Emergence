@@ -2,7 +2,7 @@
 A written documentation / final paper in Foundations in Digital Media
 
 
-#1 The analogy of a puzzle.
+#1 The analogy of a puzzle. </br>
 
 ![image](./images/pic.png)
 
@@ -13,6 +13,6 @@ The significance of the singular piece of the puzzle is starting to melt into mu
 
 #2 Dalmatian
 
-![image](./pup.png)
+![image](./images/pup.png)
 
 You are staring at this image and as the title suggests, you are scanning for this dog. It magically lifts off the field of black and white spots. As a piece of a puzzle, emerging whilst detaching from the field of the noise.
