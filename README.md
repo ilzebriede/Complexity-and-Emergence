@@ -12,6 +12,23 @@ The significance of the singular piece of the puzzle is starting to melt into mu
 - - -
 
 #2 Dalmatian
+
 ![image](./images/pup.png)
 
-You are staring at this image and as the title suggests, you are scanning for this dog. It magically lifts off the field of black and white spots. As a piece of a puzzle, emerging whilst detaching from the field of the noise.
+You are staring at this image, and as the title suggests, you are scanning for this dog. It suddenly magically lifts off the plot of black and white blobs. As a piece of a puzzle, this canine is emerging whilst detaching itself from the field of the noise.
+
+- - -
+
+#3 Untitled
+
+![image](./images/)
+
+As the title already suggests, go and figure. What do you see?
+
+- - -
+
+#4 Let's go back to the thought about the puzzle piece.
+
+![image](./images/)
+
+Look around, does the world look familiar to you today? Imagine this: the world around you is a finished puzzle. All the pieces are working together tirelessly to render a reality you wake up to every morning. Go and take a closer look, actually, why don't you pick a one piece of a puzzle in your own hands. As a side note, by doing that, you have irreversibly erased all the memory about everything, including the world itself. All that you got is this one piece of a puzzle against the gigantic unknown. How does this piece look to you? What can you tell about it? What strategy, a better or worst, will you apply to learn about this complex new world that you are about to discover?   
