@@ -21,7 +21,7 @@ You are staring at this image, and as the title suggests, you are scanning for t
 
 #3 Untitled
 
-![image](./images/img3.jpg)
+![image](./images/fig3.jpg)
 
 As the title already suggests, go and figure. What do you see?
 
