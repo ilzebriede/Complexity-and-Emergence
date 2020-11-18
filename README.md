@@ -37,8 +37,6 @@ Look around, does the world look familiar to you today? Imagine this: the world 
 
 #5 Patterns.
 
-![image](./images/patt.png)
-
 The pattern is a piece of a mystery, or even a puzzle itself. It has many properties and characteristics. It is also an abstraction of something else, an idea, a concept, or a thing. Its crude visual body is information encoded. A pattern can become a symbol; it is a container, a library. The pattern is a letter in a word, a word in a sentence, and a sentence in a tome of other patterns.
 
 We look at flat images of patterns in 2D; we only see two of many possible dimensions. It is a slice of a state, a frozen moment captured in passing time, a cross-section of a far more exciting outlandish fruit or vegetable you will ever see!
