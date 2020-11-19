@@ -3,9 +3,10 @@ A written documentation / final paper in Foundations in Digital Media (work in p
 
 #### Introduction. Statement of the research question.
 
-Can patterns become a mediator and a field of communication between human and machine? Could pattern also mean a form of emergence when looking at the landscape of complex and unknown? Pattern recognition and creation have been on human existence agenda for millennia, in its core lies the idea of abstraction and re-creation. The pattern can also be seen "as an algorithmic movement in making of things" (McLean, 2020). Because of its inherent properties and characteristics, the pattern exists in both fields of human creative thinking and algorithmic computation. We might be surprised to find more connectedness and relevance between our bodies and machinic responsiveness. I propose to utilise a pattern as a means to language and communication protocols merging our thinking and computation on a terrain of response and exchange. 
+Can patterns become a mediator and a field of communication between human and machine? Could pattern also mean a form of emergence when looking at the landscape of complex and unknown? Pattern recognition and creation have been on human existence agenda for millennia, in its core lies the idea of abstraction and re-creation. The pattern can also be seen "as an algorithmic movement in making of things" (McLean, 2020). Because of its inherent properties and characteristics, the pattern exists in both fields of human creative thinking and algorithmic computation. We might be surprised to find more connectedness and relevance between our bodies and machinic responsiveness. I propose to utilise a pattern as a means to language and communication protocols merging our thinking and computation on a terrain of response and exchange.</br> 
+Keywords: *Patterns, complexity, emergence, human-machine collaboration.*
 
-#### Keywords: *Patterns, complexity, emergence, human-machine collaboration.*
+#### How do we encounter and deal with complexity?
 
 #1 The analogy of a puzzle.
 
