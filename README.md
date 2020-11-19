@@ -8,7 +8,7 @@ Keywords: *Patterns, complexity, emergence, human-machine collaboration.*
 
 #### How do we encounter and deal with complexity?
 
-#1 The analogy of a puzzle.
+#### #1 The analogy of a puzzle.
 
 ![Fig 1](./images/cell1@0.5x-100.jpg)
 
@@ -18,46 +18,44 @@ Imagine sitting by the table with one thousand puzzle pieces laid out in front o
 The significance of the singular piece of the puzzle is starting to melt into multitudes. The starting reference point now grows into a field, and soon enough, you are staring at the sunset on some imaginary island. The final piece of the puzzle also rings the death of all puzzle pieces as they get stripped off significance, heightened attention and excessive handling. Hold that thought for a moment about you forgetting that first piece of a puzzle.  
 
 
-#2 Dalmatian.
+#### #2 Dalmatian.
 
 ![Fig2](./images/dog.png)
-*Figure 2
+
+Figure 2
 
 You are staring at this image, and as the title suggests, you are scanning for this dog. It suddenly magically lifts off the plot of black and white blobs. As a piece of a puzzle, this canine is emerging whilst detaching itself from the field of the noise.
 
 
-#3 Untitled.
+#### #3 Untitled.
 
-![image][Figure 3](./images/fig3.png)
-* Figure 3
+![Fig3](./images/fig3.png)
+
+Figure 3
 
 What do you see?
 
-- - -
+#### #4 Let's go back to the thought about the puzzle piece.
 
-#4 Let's go back to the thought about the puzzle piece.
+![Fig4](./images/cell6@0.5x-100.jpg)
 
-![image][Figure 4](./images/cell6@0.5x-100.jpg)
-*Figure 4
+Figure 4
 
 Look around, does the world look familiar to you today? Imagine this: the world around you is a finished puzzle. All the pieces are working together tirelessly to render a reality you wake up to every morning. Go and take a closer look, actually, why don't you pick a one piece of a puzzle in your own hands. As a side note, by doing that, you have irreversibly erased all the memory about everything, including the world itself. All that you got is this one piece of a puzzle against the gigantic unknown. How does this piece look to you? What can you tell about it? What strategy, a better or worst, will you apply to learn about this complex new world that you are about to discover?   
 
-- - - 
-
-#5 Patterns.
+#### #5 Patterns.
 
 The pattern is a piece of a mystery, or even a puzzle itself. It has many properties and characteristics. It is also an abstraction of something else, an idea, a concept, or a thing. Its crude visual body is information encoded. A pattern can become a symbol; it is a container, a library. The pattern is a letter in a word, a word in a sentence, and a sentence in a tome of other patterns.
 
 We look at flat images of patterns in 2D; we only see two of many possible dimensions. It is a slice of a state, a frozen moment captured in passing time, a cross-section of a far more exciting outlandish fruit or vegetable you will ever see!
 
-![image][Figure 5, 6](./images/fruits.png)
+![Figs 5,6](./images/fruits.png)
+
 Figures 5, 6
 
 When does complexity become emergent? When does emergence appears, has it always been there and we somehow missed it? Is it a Dalmation? Or is it an ability to overwrite complexity with familiarity, which is when emergence start to manifest?
 
-- - - 
-
-#6 Build your own.
+#### #6 Build your own.
 
 <div class="codepen" data-height="506" data-theme-id="light" data-default-tab="result" data-user="Ka-Vi" data-slug-hash="vYKMRpp" data-prefill='{"title":"Tile sliding puzzle","tags":[],"scripts":[],"stylesheets":[]}'>
   <pre data-lang="scss" data-option-autoprefixer="true">body {
