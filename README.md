@@ -245,8 +245,6 @@ Figure 9
 *  Figure 9. A codepen puzzle. Image: Ilze Briede 2020, code: James Meyers 2016 <https://codepen.io/FullR/pen/zKVKwE>
 
 #### Annotated bibliography
-Ascott, Roy. "The construction of change." Cambridge Opinion 41.1964 (1964): 37-42.
-
-Holland, John H. Emergence: From chaos to order. OUP Oxford, 2000.
-
-McLean, Alex. "Algorithmic Pattern."
+Ascott, Roy. "The construction of change." Cambridge Opinion 41.1964 (1964): 37-42. </br>
+Holland, John H. Emergence: From chaos to order. OUP Oxford, 2000. </br>
+McLean, Alex. "Algorithmic Pattern." </br>
