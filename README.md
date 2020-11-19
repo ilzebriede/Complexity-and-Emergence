@@ -54,7 +54,15 @@ Figures 5, 6
 
 I am opening this suggestion for a few reasons. Thinking about patterns as an ongoing morphing visualisation will allow me to contextualise the use of the pattern as a live real-time interchange and continuously updated piece of information. Similarly, as in Roy Ascott's 'Change paintings', the spectator can deliberately alter the physical body of painting by sliding Plexiglas layers that reorder and change the composition anew. He calls these kinetic pieces "analogues of ideas" that have an inert property to change and be changed. Roy Ascott believed that ideas should not be fixed and "open to investigation and reconstruction" (Ascott, 1964). To witness a change, we can do it through a feedback loop system. This system allows for a constant update that takes the input and generates the output that gets fed back into the input, becoming a perfect way to detect and observe any change. This change is also evaluated continuously against the previous generation of data and registers occurring and prior chain of events in an ongoing conversation. To me, this looks like a perfect way to create a cross-communication between human and machine, using feedback loops as patterns.
 
-The question still persists: When does complexity become emergent? When does emergence appears, has it always been there and we somehow missed it? Is it a Dalmation? Or is it an ability to overwrite complexity with familiarity, which is when emergence start to manifest?
+This paper approaches the idea and is a proposal that still needs to be developed through practice. The methodology I would like to start with is as follows:
+1) Create an open code environment that allows real-time updates from human and non-human parties. The code will generate a pattern, but also permit its modification and update in real-time from external sources, such as midi or OSC data, as well as internally by using a built-in interpreter in the code environment.
+2) Construct meaningful visual registering displays that show input data and updated data simultaneously, perhaps using different colour codes or displayed in 3D as a time slice. See mock-up images below.
+
+3) Allow to capture and record the ongoing pattern modifications that could be studied later away from the code and interaction.
+
+What am I hoping to find?
+
+I hope that this kind of work would bring some insights about modes of working. I don't expect a heartfelt conversation between human and machine; however, I hope to observe fluctuations and coincidences and some form of emergence in pattern generation, a perhaps different type of language to memorialise and use to interact. John H. Holland, an American scientist and professor in computer science and psychology, in his book on emergence talks about mechanisms or "building blocks, that allow to "construct models that exhibit emergent phenomena" (Holland, 1998). I believe there is a way to create a different kind of dialogue outside spoken word and rooted in the space of visualisation and experimentation. The main question persists: when does complexity become emergent? When does emergence appears, has it always been there and we somehow missed it? Is it a Dalmation? Or is it an ability to overwrite complexity with familiarity, which is when emergence has a chance to surface?
 
 #### #6 Build your own.
 
@@ -210,8 +218,7 @@ document.body.appendChild(puzzle.el);
 </pre></div>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
---
-The question still persists: When does complexity become emergent? When does emergence appears, has it always been there and we somehow missed it? Is it a Dalmation? Or is it an ability to overwrite complexity with familiarity, which is when emergence start to manifest?
+
 
 #### List of images.
 *  Figure 1. Fragment of a pattern, Ilze Briede 2020
