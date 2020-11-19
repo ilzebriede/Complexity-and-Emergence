@@ -54,10 +54,9 @@ Figures 5, 6
 
 I am opening this suggestion for a few reasons. Thinking about patterns as an ongoing morphing visualisation will allow me to contextualise the use of the pattern as a live real-time interchange and continuously updated piece of information. Similarly, as in Roy Ascott's 'Change paintings', the spectator can deliberately alter the physical body of painting by sliding Plexiglas layers that reorder and change the composition anew. He calls these kinetic pieces "analogues of ideas" that have an inert property to change and be changed. Roy Ascott believed that ideas should not be fixed and "open to investigation and reconstruction" (Ascott, 1964). To witness a change, we can do it through a feedback loop system. This system allows for a constant update that takes the input and generates the output that gets fed back into the input, becoming a perfect way to detect and observe any change. This change is also evaluated continuously against the previous generation of data and registers occurring and prior chain of events in an ongoing conversation. To me, this looks like a perfect way to create a cross-communication between human and machine, using feedback loops as patterns.
 
-This paper approaches the idea and is a proposal that still needs to be developed through practice. The methodology I would like to start with is as follows:
-1) Create an open code environment that allows real-time updates from human and non-human parties. The code will generate a pattern, but also permit its modification and update in real-time from external sources, such as midi or OSC data, as well as internally by using a built-in interpreter in the code environment.
-2) Construct meaningful visual registering displays that show input data and updated data simultaneously, perhaps using different colour codes or displayed in 3D as a time slice. See mock-up images below.
-
+This paper approaches the idea and is a proposal that still needs to be developed through practice. The methodology I would like to start with is as follows: </br>
+1) Create an open code environment that allows real-time updates from human and non-human parties. The code will generate a pattern, but also permit its modification and update in real-time from external sources, such as midi or OSC data, as well as internally by using a built-in interpreter in the code environment. </br>
+2) Construct meaningful visual registering displays that show input data and updated data simultaneously, perhaps using different colour codes or displayed in 3D as a time slice. See mock-up images below. </br>
 3) Allow to capture and record the ongoing pattern modifications that could be studied later away from the code and interaction.
 
 What am I hoping to find?
