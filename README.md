@@ -11,7 +11,8 @@ Keywords: *Patterns, complexity, emergence, human-machine collaboration.*
 #### #1 The analogy of a puzzle.
 
 ![Fig 1](./images/cell1@0.5x-100.jpg)
-> Figure 1
+ 
+Figure 1
 
 Imagine sitting by the table with one thousand puzzle pieces laid out in front of you. Where do you start? What strategy, better or worse, will you apply? Just pick a random piece, any piece. As you are twirling this puzzle element in your fingers in an attempt to find some point of reference, you also begin to feel a brewing neural storm up in your brain chambers. Your senses are narrowing down on this one piece of the puzzle, and you start to notice all kinds of things about it: shape, fuzzy but definite colour, some abstract ripped off paint stroke of a larger image yet to be discovered. This singular tiny piece is dense with information, fragmented and ready to be put in use, offering multitudes of obscure, and yet significant clues. Finally, another piece finds it's corresponding match, followed by a few more affirming their neighbouring positions. There is still nine hundred ninety-six more to go, but you are already feeling like a champ. But have you noticed something?
 The significance of the singular piece of the puzzle is starting to melt into multitudes. The starting reference point now grows into a field, and soon enough, you are staring at the sunset on some imaginary island. The final piece of the puzzle also rings the death of all puzzle pieces as they get stripped off significance, heightened attention and excessive handling. Hold that thought for a moment about you forgetting that first piece of a puzzle.  
@@ -57,7 +58,11 @@ I am opening this suggestion for a few reasons. Thinking about patterns as an on
 This paper approaches the idea and is a proposal that still needs to be developed through practice. The methodology I would like to start with is as follows: </br>
 1) Create an open code environment that allows real-time updates from human and non-human parties. The code will generate a pattern, but also permit its modification and update in real-time from external sources, such as midi or OSC data, as well as internally by using a built-in interpreter in the code environment. </br>
 2) Construct meaningful visual registering displays that show input data and updated data simultaneously, perhaps using different colour codes or displayed in 3D as a time slice. See mock-up images below. </br>
-![image](./images/circle.png) ![image](./images/cubes.png)
+
+![image](./images/circle.png)
+
+![image](./images/cubes.png)
+
 3) Allow to capture and record the ongoing pattern modifications that could be studied later away from the code and interaction.
 
 What am I hoping to find?
@@ -221,6 +226,9 @@ document.body.appendChild(puzzle.el);
 </pre></div>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
+Figure 9
+
+---------
 
 
 #### List of images.
@@ -230,7 +238,8 @@ document.body.appendChild(puzzle.el);
 *  Figure 4. Fragment of a pattern, Ilze Briede 2020
 *  Figure 5. Exotic fruits, Jannes Pockele 2009. <https://www.flickr.com/photos/44148352@N00/4200905730>
 *  Figure 6. Fragment of a pattern, Ilze Briede 2020
-*  Figure 7. A codepen puzzle. Image: Ilze Briede 2020, code: James Meyers 2016 <https://codepen.io/FullR/pen/zKVKwE>
+*  Figure 7, 8. Coded patterns created with p5.js, Ilze Briede 2020
+*  Figure 9. A codepen puzzle. Image: Ilze Briede 2020, code: James Meyers 2016 <https://codepen.io/FullR/pen/zKVKwE>
 
 #### Bibliography
 Ascott, Roy. "The construction of change." Cambridge Opinion 41.1964 (1964): 37-42.
