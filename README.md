@@ -53,7 +53,7 @@ First of all, let us examine the pattern. We look at flat representations of pat
 
 Figures 5, 6
 
-I am opening this suggestion for a few reasons. Thinking about patterns as an ongoing morphing visualisation will allow me to contextualise the use of the pattern as a live real-time interchange and continuously updated piece of information. Similarly, as in Roy Ascott's 'Change paintings', the spectator can deliberately alter the physical body of painting by sliding Plexiglas layers that reorder and change the composition anew. He calls these kinetic pieces "analogues of ideas" that have an inert property to change and be changed. Roy Ascott believed that ideas should not be fixed and "open to investigation and reconstruction" (Ascott, 1964). To witness a change, we can do it through a feedback loop system. This system allows for a constant update that takes the input and generates the output that gets fed back into the input, becoming a perfect way to detect and observe any change. This change is also evaluated continuously against the previous generation of data and registers occurring and prior chain of events in an ongoing conversation. To me, this looks like a perfect way to create a cross-communication between human and machine, using feedback loops and patterns.
+I am opening this suggestion for a few reasons. Thinking about patterns as an ongoing morphing visualisation will allow me to contextualise the use of the pattern as a live real-time interchange and continuously updated piece of information. Similarly, as in Roy Ascott's 'Change paintings', the spectator can deliberately alter the physical body of painting by sliding Plexiglas layers that reorder and change the composition anew. He calls these kinetic pieces "analogues of ideas" that have an inert property to change and be changed. Roy Ascott believed that ideas should not be fixed and "open to investigation and reconstruction" (Ascott, 1964). To witness a change, we can do it through a feedback loop system. This system allows for a constant update that takes the input and generates the output that gets fed back into the input, becoming a perfect way to detect and observe any change. This change is also evaluated continuously against the previous generation of data and registers occurring and prior chain of events in an ongoing conversation. To me, this looks like a perfect way to create a cross-communication between human and machine, using feedback loops as patterns.
 
 The question still persists: When does complexity become emergent? When does emergence appears, has it always been there and we somehow missed it? Is it a Dalmation? Or is it an ability to overwrite complexity with familiarity, which is when emergence start to manifest?
 
@@ -212,14 +212,17 @@ document.body.appendChild(puzzle.el);
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 --
-Figure 1. Fragment of a pattern, Ilze Briede 2020
-Figure 2. Hidden dalmation, Published by James Dean <https://www.moillusions.com/hidden-dalmation-dog/>
-Figure 3. "File:Cerebellum Cross Section Purkinje Cells (42040995732).jpg" by Berkshire Community College Bioscience Image Library is marked with CC0 1.0
-<https://commons.wikimedia.org/w/index.php?curid=70159812>
-Figure 4. Fragment of a pattern, Ilze Briede 2020
-Figure 5. Exotic fruits, Jannes Pockele 2009. <https://www.flickr.com/photos/44148352@N00/4200905730>
-Figure 6. Fragment of a pattern, Ilze Briede 2020
-Figure 7. A codepen puzzle. Image: Ilze Briede 2020, code: James Meyers 2016 <https://codepen.io/FullR/pen/zKVKwE>
+The question still persists: When does complexity become emergent? When does emergence appears, has it always been there and we somehow missed it? Is it a Dalmation? Or is it an ability to overwrite complexity with familiarity, which is when emergence start to manifest?
 
---
+#### List of images.
+> Figure 1. Fragment of a pattern, Ilze Briede 2020
+> Figure 2. Hidden dalmation, Published by James Dean <https://www.moillusions.com/hidden-dalmation-dog/>
+> Figure 3. "File:Cerebellum Cross Section Purkinje Cells (42040995732).jpg" by Berkshire Community College Bioscience Image Library is marked with CC0 1.0
+<https://commons.wikimedia.org/w/index.php?curid=70159812>
+> Figure 4. Fragment of a pattern, Ilze Briede 2020
+> Figure 5. Exotic fruits, Jannes Pockele 2009. <https://www.flickr.com/photos/44148352@N00/4200905730>
+> Figure 6. Fragment of a pattern, Ilze Briede 2020
+> Figure 7. A codepen puzzle. Image: Ilze Briede 2020, code: James Meyers 2016 <https://codepen.io/FullR/pen/zKVKwE>
+
+#### Bibliography
 Ascott, Roy. "The construction of change." Cambridge Opinion 41.1964 (1964): 37-42.
