@@ -3,7 +3,7 @@ A written documentation / final paper in Foundations in Digital Media (work in p
 
 #### Introduction. Statement of the research question.
 
-Can patterns become a mediator and a field of communication between human and machine? Could pattern also mean a form of emergence when looking at the landscape of complex and unknown? Pattern recognition and creation have been on human existence agenda for millennia, in its core lies the idea of abstraction and re-creation. The pattern can also be seen "as an algorithmic movement in making of things" (McLean, 2020). Because of its inherent properties and characteristics, the pattern exists in both fields of human creative thinking and algorithmic computation. We might be surprised to find more connectedness and relevance between our bodies and machinic responsiveness. I propose to utilise a pattern as a means to language and communication protocols merging our thinking and computation on a terrain of response and exchange.</br> 
+Can patterns become a mediator and a field of communication between human and machine? Could pattern also mean a form of emergence when looking at the landscape of complex and unknown? Pattern recognition and creation have been on human existence agenda for millennia, in its core lies the idea of abstraction and re-creation. The pattern can also be seen "as an algorithmic movement in making of things" (McLean, 2020), especially when we look at the process of weaving. Pattern travels across various domains of materials and media, such as paper, textiles, clay, pixel space and binary systems. Because of its inherent properties and characteristics, the pattern exists in both fields of human creative thinking and algorithmic computation. I propose to create a language of patterns that can serve as communication protocols merging our thinking and computation on a terrain of equals in response and exchange.</br> 
 Keywords: *Patterns, complexity, emergence, human-machine collaboration.*
 
 #### How do we encounter and deal with complexity?
@@ -47,13 +47,15 @@ Look around, does the world look familiar to you today? Imagine this: the world 
 
 The pattern is a piece of a mystery, or even a puzzle itself. It has many properties and characteristics. It is also an abstraction of something else, an idea, a concept, or a thing. Its crude visual body is information encoded. A pattern can become a symbol; it is a container, a library. The pattern is a letter in a word, a word in a sentence, and a sentence in a tome of other patterns.
 
-We look at flat images of patterns in 2D; we only see two of many possible dimensions. It is a slice of a state, a frozen moment captured in passing time, a cross-section of a far more exciting outlandish fruit or vegetable you will ever see!
+First of all, let us examine the pattern. We look at flat representations of patterns in 2D; we only see two of many possible dimensions. Let's try and think about it as a slice of a state, a frozen moment captured in time passage. Or as a cross-section of a far more exciting and outlandish fruit or vegetable that you will ever encounter!
 
 ![Figs 5,6](./images/fruits.png)
 
 Figures 5, 6
 
-When does complexity become emergent? When does emergence appears, has it always been there and we somehow missed it? Is it a Dalmation? Or is it an ability to overwrite complexity with familiarity, which is when emergence start to manifest?
+I am opening this suggestion for a few reasons. Thinking about patterns as an ongoing morphing visualisation will allow me to contextualise the use of the pattern as a live real-time interchange and continuously updated piece of information. Similarly, as in Roy Ascott's 'Change paintings', the spectator can deliberately alter the physical body of painting by sliding Plexiglas layers that reorder and change the composition anew. He calls these kinetic pieces "analogues of ideas" that have an inert property to change and be changed. Roy Ascott believed that ideas should not be fixed and "open to investigation and reconstruction" (Ascott, 1964). To witness a change, we can do it through a feedback loop system. This system allows for a constant update that takes the input and generates the output that gets fed back into the input, becoming a perfect way to detect and observe any change. This change is also evaluated continuously against the previous generation of data and registers occurring and prior chain of events in an ongoing conversation. To me, this looks like a perfect way to create a cross-communication between human and machine, using feedback loops and patterns.
+
+The question still persists: When does complexity become emergent? When does emergence appears, has it always been there and we somehow missed it? Is it a Dalmation? Or is it an ability to overwrite complexity with familiarity, which is when emergence start to manifest?
 
 #### #6 Build your own.
 
@@ -218,3 +220,6 @@ Figure 4. Fragment of a pattern, Ilze Briede 2020
 Figure 5. Exotic fruits, Jannes Pockele 2009. <https://www.flickr.com/photos/44148352@N00/4200905730>
 Figure 6. Fragment of a pattern, Ilze Briede 2020
 Figure 7. A codepen puzzle. Image: Ilze Briede 2020, code: James Meyers 2016 <https://codepen.io/FullR/pen/zKVKwE>
+
+--
+Ascott, Roy. "The construction of change." Cambridge Opinion 41.1964 (1964): 37-42.
