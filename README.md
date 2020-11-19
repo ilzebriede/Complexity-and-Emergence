@@ -74,7 +74,7 @@ I hope that this kind of work would bring some insights about modes of working. 
 
 #### #6 Build your own.
 
-Patterns don't create themselves, people do, and the computer does. I wanted to create a few scenarios when we are exposed to patterns and their structure. As the primary inspiration and starting seed, I used traditional Latvian folkloric patterns found woven into textiles and wearable clothing articles such as skirt and belts. Below you can observe and interact with different digital forms of patterns. A computer algorithm does not generate these forms, not yet. I created these patterns myself when translating drawings and sketches into cleaner and refined digital designs. I intend to continue work towards creating coded systems that can make and respond to pattern forms. These examples serve as my thinking guidelines.
+Patterns don't create themselves; people do. Below is a simple puzzle game that invites you to interact with pieces of segments and arrange them to complete the pattern. As the primary inspiration and starting seed, I used traditional Latvian folkloric patterns found woven into textiles and wearable clothing articles such as skirt and belts. I intend to continue work towards creating coded systems that can make and respond to pattern forms. This and examples above serve as my thinking guidelines.
 
 
 <div class="codepen" data-height="506" data-theme-id="light" data-default-tab="result" data-user="Ka-Vi" data-slug-hash="vYKMRpp" data-prefill='{"title":"Tile sliding puzzle","tags":[],"scripts":[],"stylesheets":[]}'>
