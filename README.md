@@ -235,16 +235,16 @@ Figure 9
 
 
 #### List of images.
-*  Figure 1. Fragment of a pattern, Ilze Briede 2020
-*  Figure 2. Hidden dalmation, Published by James Dean <https://www.moillusions.com/hidden-dalmation-dog/>
-*  Figure 3. "File:Cerebellum Cross Section Purkinje Cells (42040995732).jpg" by Berkshire Community College Bioscience Image Library <https://commons.wikimedia.org/w/index.php?curid=70159812>
-*  Figure 4. Fragment of a pattern, Ilze Briede 2020
-*  Figure 5. Exotic fruits, Jannes Pockele 2009. <https://www.flickr.com/photos/44148352@N00/4200905730>
-*  Figure 6. Fragment of a pattern, Ilze Briede 2020
-*  Figure 7, 8. Coded patterns created with p5.js, Ilze Briede 2020
-*  Figure 9. A codepen puzzle. Image: Ilze Briede 2020, code: James Meyers 2016 <https://codepen.io/FullR/pen/zKVKwE>
+* Figure 1. Fragment of a pattern, Ilze Briede 2020
+* Figure 2. Hidden dalmation, Published by James Dean <https://www.moillusions.com/hidden-dalmation-dog/>
+* Figure 3. "File:Cerebellum Cross Section Purkinje Cells (42040995732).jpg" by Berkshire Community College Bioscience Image Library <https://commons.wikimedia.org/w/index.php?curid=70159812>
+* Figure 4. Fragment of a pattern, Ilze Briede 2020
+* Figure 5. Exotic fruits, Jannes Pockele 2009. <https://www.flickr.com/photos/44148352@N00/4200905730>
+* Figure 6. Fragment of a pattern, Ilze Briede 2020
+* Figure 7, 8. Coded patterns created with p5.js, Ilze Briede 2020
+* Figure 9. A codepen puzzle. Image: Ilze Briede 2020, code: James Meyers 2016 <https://codepen.io/FullR/pen/zKVKwE>
 
 #### Annotated bibliography
-Ascott, Roy. "The construction of change." Cambridge Opinion 41.1964 (1964): 37-42. 
-</br>Holland, John H. Emergence: From chaos to order. OUP Oxford, 2000. 
-</br>McLean, Alex. "Algorithmic Pattern." </br>
+* Ascott, Roy. "The construction of change." Cambridge Opinion 41.1964 (1964): 37-42. 
+* Holland, John H. Emergence: From chaos to order. OUP Oxford, 2000. 
+* McLean, Alex. "Algorithmic Pattern." </br>
