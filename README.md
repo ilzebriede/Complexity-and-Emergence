@@ -66,6 +66,8 @@ This paper approaches the idea and is a proposal that still needs to be develope
 
 ![image](./images/cubes.png)
 
+Figures 7, 8
+
 3) Allow to capture and record the ongoing pattern modifications that could be studied later away from the code and interaction.
 
 What am I hoping to find?
