@@ -247,4 +247,4 @@ Figure 9
 #### Annotated bibliography
 * Ascott, Roy. "The construction of change." Cambridge Opinion 41.1964 (1964): 37-42. 
 * Holland, John H. Emergence: From chaos to order. OUP Oxford, 2000. 
-* McLean, Alex. "Algorithmic Pattern." </br>
+* Mclean, Alex. "Algorithmic Pattern." Proceedings of the International Conference on New Interfaces for Musical Expression. Birmingham City University, 2020.
