@@ -1,4 +1,4 @@
-# Complexity-and-Emergence
+# Conversation Through Patterns
 A written documentation / final paper in Foundations in Digital Media (work in progress, unfinished)
 
 #### Introduction. Statement of the research question.
