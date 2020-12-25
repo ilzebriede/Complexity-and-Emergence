@@ -253,7 +253,8 @@ Figure 9
 ---------
 
 
-#### List of images
+#### List of images.
+
 * Figure 1. Fragment of a pattern, Ilze Briede 2020
 * Figure 2. Hidden dalmation, Published by James Dean <https://www.moillusions.com/hidden-dalmation-dog/>
 * Figure 3. "File:Cerebellum Cross Section Purkinje Cells (42040995732).jpg" by Berkshire Community College Bioscience Image Library <https://commons.wikimedia.org/w/index.php?curid=70159812>
@@ -263,7 +264,8 @@ Figure 9
 * Figure 7, 8. Coded patterns created with p5.js, Ilze Briede 2020
 * Figure 9. A codepen puzzle. Image: Ilze Briede 2020, code: James Meyers 2016 <https://codepen.io/FullR/pen/zKVKwE>
 
-#### Cited sources
+#### Cited sources.
+
 Ascott, Roy. Telematic embrace: Visionary theories of art, technology, and consciousness. Univ of California Press, 2007.
 Fontana, Walter. "The topology of the possible." Understanding Change. Palgrave Macmillan, London, 2006. 67-84.
 Griffiths, David, and Alex McLean. "Textility of Code: A Catalogue of Errors." TEXTILE 15.2 (2017): 198-214.
@@ -271,7 +273,7 @@ McLean, Alex. "Algorithmic Pattern." NIME, 2020.
 McLean, Alex, et al. "Visualisation of live code." Electronic Visualisation and the Arts (EVA 2010) (2010): 26-30.
 Reas, Casey, and Chandler McWilliams. Form+ Code: in design, art, and architecture. Princeton Architecturel Press, 2011.
 
-#### Annotated bibliography
+#### Annotated bibliography.
 
 Ascott, Roy. Telematic embrace: Visionary theories of art, technology, and consciousness. Univ of California Press, 2007. Chapter: The Construction of Change (pp.97 - pp.108)
 > For Roy Ascott, artwork occupies a space between two sets of behaviours: the artists and the spectators. "It is essentially a matrix, the substance *between*. It exists neither for itself nor by itself." (p.99) His *Change Paintings* are analogues of ideas, open to different interpretations and able of various states. The process that is an act of creation itself happens amid the artwork and the perceiver. I think this is Roy Ascott's "fluid field" that encourages, catalyses and supports the change. The journey from idea to its manifestation is more critical than the outcome, as each time the result can be ultimately a different form. The idea behind his Groundcourse (a two-year art program) is to allow creative mind seek possible outcomes to impossible things, an invitation to work with something unthinkable and unique and translate it via real-world materials and tools, and techniques. Because "out of the flux, a many-sided organism may evolve" (pp.102). He sees cybernetics as a unique angle to explore the environment, its structure, behaviour and building blocks, a methodology that artists can apply and expand through the process of art-making. 
