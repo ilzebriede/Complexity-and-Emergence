@@ -264,7 +264,12 @@ Figure 9
 * Figure 9. A codepen puzzle. Image: Ilze Briede 2020, code: James Meyers 2016 <https://codepen.io/FullR/pen/zKVKwE>
 
 #### Cited sources
-
+Ascott, Roy. Telematic embrace: Visionary theories of art, technology, and consciousness. Univ of California Press, 2007.
+Fontana, Walter. "The topology of the possible." Understanding Change. Palgrave Macmillan, London, 2006. 67-84.
+Griffiths, David, and Alex McLean. "Textility of Code: A Catalogue of Errors." TEXTILE 15.2 (2017): 198-214.
+McLean, Alex. "Algorithmic Pattern." NIME, 2020.
+McLean, Alex, et al. "Visualisation of live code." Electronic Visualisation and the Arts (EVA 2010) (2010): 26-30.
+Reas, Casey, and Chandler McWilliams. Form+ Code: in design, art, and architecture. Princeton Architecturel Press, 2011.
 
 #### Annotated bibliography
 
