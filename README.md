@@ -1,18 +1,15 @@
-# Conversation Through Patterns
+
 Final written documentation in Foundations in Digital Media.
 
 #### Introduction. Statement of the research question.
-
 Can patterns become a mediator and a field of communication between human and machine? Could pattern also mean a form of emergence when looking at the landscape of complex and unknown? Pattern recognition and creation have been on human existence agenda for millennia, in its core lies the idea of abstraction and re-creation. The pattern can also be seen "as an algorithmic movement in making of things" (McLean, 2020), especially when we look at the process of weaving. Pattern travels across various domains of materials and media, such as paper, textiles, clay, organic vegetation, pixel space and binary systems. Because of its inherent properties and characteristics, the pattern exists in both fields of human creative thinking and algorithmic computation. I propose to create a language of patterns that can serve as communication protocols merging our thinking and computation on a terrain of equals in response and exchange.</br>
 Keywords: *Patterns, complexity, emergence, human-machine collaboration.*
 
 #### How do we encounter and deal with complexity?
 
 #### #1 The analogy of a puzzle.
-
 ![Fig 1](./images/cell1@0.5x-100.jpg)
- 
-Figure 1
+ Figure 1
 
 >Imagine sitting by the table with one thousand puzzle pieces laid out in front of you. Where do you start? What strategy, better or worse, will you apply? Just pick a random piece, any piece. As you are twirling this puzzle element in your fingers in an attempt to find some point of reference, you also begin to feel a brewing neural storm up in your brain chambers. Your senses are narrowing down on this one piece of the puzzle, and you start to notice all kinds of things about it: shape, fuzzy but definite colour, some abstract ripped off paint stroke of a larger image yet to be discovered. This singular tiny piece is dense with information, fragmented and ready to be put in use, offering multitudes of obscure, and yet significant clues. Finally, another piece finds it's corresponding match, followed by a few more affirming their neighbouring positions. There is still nine hundred ninety-six more to go, but you are already feeling like a champ. But have you noticed something?
 The significance of the singular piece of the puzzle is starting to melt into multitudes. The starting reference point now grows into a field, and soon enough, you are staring at the sunset on some imaginary island. The final piece of the puzzle also rings the death of all puzzle pieces as they get stripped off significance, heightened attention and excessive handling. Hold that thought for a moment about you forgetting that first piece of a puzzle.  
