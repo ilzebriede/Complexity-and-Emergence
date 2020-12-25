@@ -108,7 +108,7 @@ Below is a simple puzzle game that invites you to interact with pieces of segmen
   <pre data-lang="js">//this codepen was forked from James Meyers
 //https://codepen.io/FullR/pen/zKVKwE
 
-const src = "https://ilzebriede.github.io/Conversation-through-patterns/images/Artboard.jpg?quality=89&w=500";
+const src = "https://ilzebriede.github.io/Conversation-through-patterns/images/Pattern1.jpg?quality=89&w=500";
 
 class Puzzle {
   constructor({src, rows, columns, width, height}) {
