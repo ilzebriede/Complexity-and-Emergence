@@ -96,7 +96,7 @@ John H. Holland, an American scientist and professor in computer science and psy
 
 Below is a simple puzzle game that invites you to interact with pieces of segments and arrange them into a pattern. The idea behind this simple game of puzzle is to ask yourself what the pattern is? Can and does it have a single finite variation or multiple ones? If you would be a generator, what would your pattern look like, what made you choose this particular combination? In this space of thinking about these questions, we can also invite other new forms coming from non-human creator perspective. In this new light of observing and dissecting, what would we see? 
 
-<div class="codepen" data-height="500" data-theme-id="light" data-default-tab="result" data-user="Ka-Vi" data-slug-hash="vYKMRpp" data-prefill='{"title":"Tile sliding puzzle","tags":[],"scripts":[],"stylesheets":[]}'>
+<div class="codepen" data-height="499" data-theme-id="light" data-default-tab="result" data-user="Ka-Vi" data-slug-hash="vYKMRpp" data-prefill='{"title":"Tile sliding puzzle","tags":[],"scripts":[],"stylesheets":[]}'>
   <pre data-lang="scss" data-option-autoprefixer="true">body {
   text-align: center;
 }
@@ -240,8 +240,8 @@ const puzzle = new Puzzle({
   src,
   width: 600,
   height: 400,
-  rows: 3,
-  columns: 3
+  rows: 4,
+  columns: 4
 });
 
 document.body.appendChild(puzzle.el);
