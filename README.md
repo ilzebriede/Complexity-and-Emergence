@@ -1,5 +1,7 @@
 
 Final written documentation in Foundations in Digital Media.
+Title: Conversation Through Patterns.
+Ilze Briede [Kavi], 2020.
 
 #### Introduction. Statement of the research question.
 Can patterns become a mediator and a field of communication between human and machine? Could pattern also mean a form of emergence when looking at the landscape of complex and unknown? Pattern recognition and creation have been on human existence agenda for millennia, in its core lies the idea of abstraction and re-creation. The pattern can also be seen "as an algorithmic movement in making of things" (McLean, 2020), especially when we look at the process of weaving. Pattern travels across various domains of materials and media, such as paper, textiles, clay, organic vegetation, pixel space and binary systems. Because of its inherent properties and characteristics, the pattern exists in both fields of human creative thinking and algorithmic computation. I propose to create a language of patterns that can serve as communication protocols merging our thinking and computation on a terrain of equals in response and exchange.
