@@ -41,8 +41,10 @@ Figure 3
 
 What do you see? Here are some probabilistic answers:
 1) A satellite image of Mojave Desert
-2) A microscopic rendering of Purkinje cells.
-3) A generative computational art piece.
+2) A microscopic rendering of Purkinje cells
+3) A generative computational art piece
+
+The answer is somehwere at the bottom of this page.
 
 #### #4 Let's go back to the thought about the puzzle piece.
 
