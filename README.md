@@ -39,7 +39,10 @@ You are staring at this image, and as the title suggests, your eyes are scanning
 
 Figure 3
 
-What do you see?
+What do you see? Here are some probabilistic answers:
+1) A satellite image of Mojave Desert
+2) A microscopic rendering of Purkinje cells.
+3) A generative computational art piece.
 
 #### #4 Let's go back to the thought about the puzzle piece.
 
