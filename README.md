@@ -40,9 +40,9 @@ You are staring at this image, and as the title suggests, your eyes are scanning
 Figure 3
 
 What do you see? Here are some probabilistic answers:
-1) A satellite image of Mojave Desert
-2) A microscopic rendering of Purkinje cells
-3) A generative computational art piece
+* A satellite image of Mojave Desert
+* A microscopic rendering of Purkinje cells
+* A generative computational art piece
 
 The answer is somehwere at the bottom of this page.
 
@@ -59,7 +59,7 @@ To navigate in the creative field of pattern creation, McLean and Griffiths depl
 
 #### #5 Patterns.
 
-The pattern is a piece of a mystery, or even a puzzle itself. It has many properties and characteristics. It is also an abstraction of something else, an idea, a concept, or a thing. Its crude visual body is information encoded. A pattern can become a symbol; it is a container, a library. The pattern is a letter in a word, a word in a sentence, and a sentence in a tome of other patterns.
+The pattern is a piece of a mystery, or even a puzzle itself. It has many properties and characteristics. It is also an abstraction of something else, an idea, a concept, or a thing. Its crude visual body is information encoded. A pattern can become a symbol; it is a container, a library. The pattern is a letter in a word, a word in a sentence, and a sentence in a tome of other patterns. "All visual patterns and tessealations at their core are composed of algorithms. Even centuries-old patterns, such as Scottish tartans, follow strict compositional rules that are capable of being encoded into software. Writing code is an exciting way to approach visual patterns." (Reas, McWilliams, 2010)
 
 First of all, let us examine the pattern. We look at flat representations of patterns in 2D; we only see two of many possible dimensions. Let's try and think about it as a slice of a state, a frozen moment captured in time passage. Or as a cross-section of a far more exciting and outlandish fruit or vegetable that you will ever encounter!
 
@@ -67,7 +67,7 @@ First of all, let us examine the pattern. We look at flat representations of pat
 
 Figures 5, 6
 
-I am opening this suggestion for a few reasons. Thinking about patterns as an ongoing morphing visualisation will allow me to contextualise the use of the pattern as a live real-time interchange and continuously updated piece of information. Similarly, as in Roy Ascott's 'Change paintings', the spectator can deliberately alter the physical body of painting by sliding Plexiglas layers that reorder and change the composition anew. He calls these kinetic pieces "analogues of ideas" that have an inert property to change and be changed. Roy Ascott believed that ideas should not be fixed and "open to investigation and reconstruction" (Ascott, 1964). To witness a change, we can do it through a feedback loop system in computerised environment. This type of system allows for a constant update that takes the input and generates the output that gets fed back into the input, becoming a perfect way to detect and observe changes. This change is also evaluated continuously against the previous generation of data and registers occurring and prior chain of events in an ongoing conversation. To me, this looks like a suitable method to facilitate a cross-communication between human and machine, using feedback loops as patterns.
+I am opening this suggestion for a few reasons. Thinking about patterns as an ongoing morphing visualisation will allow me to contextualise the pattern as a live real-time interchange and continuously updated piece of information. Similarly, as in Roy Ascott's 'Change paintings', the spectator can deliberately alter the physical body of painting by sliding Plexiglas layers that reorder and change the composition anew. He calls these kinetic pieces "analogues of ideas" that have an inert property to change and be changed. Roy Ascott believed that ideas should not be fixed and "open to investigation and reconstruction" (Ascott, 1964). To witness a change, we can do it through a feedback loop system in computerised environment. This type of system allows for a constant update that takes the input and generates the output, and that gets fed back into the input again, becoming a perfect way to detect and observe changes. This change is also evaluated continuously against the previous generation of data and registers occurring and prior chain of events in an ongoing conversation. To me, this exchange looks like a suitable method to facilitate a cross-communication between human and machine (algorithm), using feedback loops as patterns. Here I would like to refer back to Walter Fontana's paper "The Topology of the Possible". He mentions the third kind of organisation, a "crosstalk" between two autonomous organisations that connects them without changing their functionality. All together, they create a high-order system. "Rather than perturbing an organisation with a single function, we can add a whole other organisation. In some cases, the merged organisations don't drive each other out of existence, but integrate stably. [...] successful integration is dependent on feedback loops." (Fontana, 2003). The feedback loop can be achieved by real-time access and modification of the source code from both parties: a coder and an algorithm.
 
 This paper approaches the idea and is a proposal that still needs to be developed through practice. The methodology I would like to start with is as follows:
 
