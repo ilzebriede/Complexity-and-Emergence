@@ -75,6 +75,7 @@ This paper approaches the idea and is a proposal that still needs to be develope
 
 2) Construct meaningful visual registering displays that show input data and updated data simultaneously, perhaps using different colour codes or displayed in 3D as a time slice. See mock-up images below.
 
+3) Allow to capture and record the ongoing pattern modifications that could be studied later away from the code and interaction.
 
 ![image](./images/circle.png)
 
@@ -82,16 +83,18 @@ This paper approaches the idea and is a proposal that still needs to be develope
 
 Figures 7, 8
 
-3) Allow to capture and record the ongoing pattern modifications that could be studied later away from the code and interaction.
+What will be this new space?
 
-What am I hoping to find?
+To allow two different systems to meet, in my case, it is a human creator/coder and a computer algorithm, a third independent system should be devised that will work as an interconnector. The connection lines running through all three would be supported by feedback loops, cross-communicating and coupling each other systems based on their internal rules and laws of functions. This third alternative glueing system I imagine to be generative space of pattern a.k.a. pieces of the puzzle.
 
-I hope that this kind of work would bring some insights about modes of working. I don't expect a heartfelt conversation between human and machine; however, I hope to observe fluctuations and coincidences and some form of emergence in pattern generation, a perhaps different type of language to memorise and use for interaction. John H. Holland, an American scientist and professor in computer science and psychology, in his book on emergence talks about mechanisms or "building blocks" that allow to "construct models that exhibit emergent phenomena" (Holland, 1998). I believe there is a way to create a different kind of dialogue outside spoken word and rooted in the space of visualisation and experimentation. The main question persists: when does complexity become emergent? When does emergence appears, has it always been there and we somehow missed it? Is it a Dalmation? Or is it an ability to overwrite complexity with familiarity, which is when emergence has a chance to surface? I used the analogy about the world being a finished puzzle, where we seem to fail in seeing the building blocks. I think this phenomenon addresses the way we look and not see, forgetting about the complexity and emergent phenomena surrounding us everywhere. I hope that patterns would be more suited and complex enough to capture small wonders and situations that are out of ordinary; the ones we might call memorable and emergent.
+The most challenging part would be to create an algorithm that can overwrite, change, transcode itself and set its own unique rules of its worldbuilding. The *live coding* aspect here is very crucial, as it will set all systems according to the same time zone of *now*.  
+We also need to imagine, that the way human/coder will communicate with the algorithm would be through this new pattern interface that would be an open coding environment. Perhaps, that could be an open-ended system that would allow multiple connections, as well as its own supporting functions, to facilitate this collaborative communication and vis-a-vis worldbuilding. Alex McLean calls "live coding 'codeo-morphology' as the changing shape of code over time." (McLean et al, 2010).
+
+John H. Holland, an American scientist and professor in computer science and psychology, in his book on emergence talks about mechanisms or "building blocks" that allow to "construct models that exhibit emergent phenomena" (Holland, 1998). I believe there is a way to create a different kind of dialogue outside spoken word and rooted in the space of visualisation and experimentation. The main question persists: when does complexity become emergent? When does emergence appears, has it always been there and we somehow missed it? Is it a Dalmation? Or is it an ability to overwrite complexity with familiarity, which is when emergence has a chance to surface? I used the analogy about the world being a finished puzzle, where we seem to fail in seeing the building blocks. I think this phenomenon addresses the way we look and not see, forgetting about the complexity and emergent phenomena surrounding us everywhere. I hope that patterns would be more suited and complex enough to capture small wonders and situations that are out of ordinary; the ones we might call memorable and emergent.
 
 #### #6 Build your own.
 
-Patterns don't create themselves; people do. Below is a simple puzzle game that invites you to interact with pieces of segments and arrange them to complete the pattern. As the primary inspiration and starting seed, I used traditional Latvian folkloric patterns found woven into textiles and wearable clothing articles such as skirt and belts. I intend to continue work towards creating coded systems that can make and respond to pattern forms. This and examples above serve as my thinking guidelines.
-
+Below is a simple puzzle game that invites you to interact with pieces of segments and arrange them into a pattern. The idea behind this simple game of puzzle is to ask yourself what the pattern is? Can and does it have a single finite variation or multiple ones? If you would be a generator, what would your pattern look like, what made you choose this particular combination? In this space of thinking about these questions, we can also invite other new forms coming from non-human creator perspective. In this new light of observing and dissecting, what would we see? 
 
 <div class="codepen" data-height="500" data-theme-id="light" data-default-tab="result" data-user="Ka-Vi" data-slug-hash="vYKMRpp" data-prefill='{"title":"Tile sliding puzzle","tags":[],"scripts":[],"stylesheets":[]}'>
   <pre data-lang="scss" data-option-autoprefixer="true">body {
