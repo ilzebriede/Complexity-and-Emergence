@@ -4,7 +4,7 @@ Final written documentation in Foundations in Digital Media.
 #### Introduction. Statement of the research question.
 Can patterns become a mediator and a field of communication between human and machine? Could pattern also mean a form of emergence when looking at the landscape of complex and unknown? Pattern recognition and creation have been on human existence agenda for millennia, in its core lies the idea of abstraction and re-creation. The pattern can also be seen "as an algorithmic movement in making of things" (McLean, 2020), especially when we look at the process of weaving. Pattern travels across various domains of materials and media, such as paper, textiles, clay, organic vegetation, pixel space and binary systems. Because of its inherent properties and characteristics, the pattern exists in both fields of human creative thinking and algorithmic computation. I propose to create a language of patterns that can serve as communication protocols merging our thinking and computation on a terrain of equals in response and exchange.
 
-Keywords: *Patterns, complexity, emergence, human-machine collaboration.*
+Keywords: *Patterns, complexity, emergence, human-algorithm collaboration.*
 
 #### How do we encounter and deal with complexity?
 
@@ -93,7 +93,7 @@ I hope that this kind of work would bring some insights about modes of working. 
 Patterns don't create themselves; people do. Below is a simple puzzle game that invites you to interact with pieces of segments and arrange them to complete the pattern. As the primary inspiration and starting seed, I used traditional Latvian folkloric patterns found woven into textiles and wearable clothing articles such as skirt and belts. I intend to continue work towards creating coded systems that can make and respond to pattern forms. This and examples above serve as my thinking guidelines.
 
 
-<div class="codepen" data-height="506" data-theme-id="light" data-default-tab="result" data-user="Ka-Vi" data-slug-hash="vYKMRpp" data-prefill='{"title":"Tile sliding puzzle","tags":[],"scripts":[],"stylesheets":[]}'>
+<div class="codepen" data-height="500" data-theme-id="light" data-default-tab="result" data-user="Ka-Vi" data-slug-hash="vYKMRpp" data-prefill='{"title":"Tile sliding puzzle","tags":[],"scripts":[],"stylesheets":[]}'>
   <pre data-lang="scss" data-option-autoprefixer="true">body {
   text-align: center;
 }
@@ -105,7 +105,7 @@ Patterns don't create themselves; people do. Below is a simple puzzle game that 
   <pre data-lang="js">//this codepen was forked from James Meyers
 //https://codepen.io/FullR/pen/zKVKwE
 
-const src = "https://ilzebriede.github.io/Complexity-and-Emergence/images/Artboard.jpg?quality=89&w=500";
+const src = "https://ilzebriede.github.io/Conversation-through-patterns/images/Artboard.jpg?quality=89&w=500";
 
 class Puzzle {
   constructor({src, rows, columns, width, height}) {
@@ -237,13 +237,13 @@ const puzzle = new Puzzle({
   src,
   width: 600,
   height: 400,
-  rows: 4,
+  rows: 3,
   columns: 3
 });
 
 document.body.appendChild(puzzle.el);
 </pre></div>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 Figure 9
 
