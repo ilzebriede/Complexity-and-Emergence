@@ -83,7 +83,7 @@ This paper approaches the idea and is a proposal that still needs to be develope
 
 Figures 7, 8
 
-What will be this new space?
+#### What is this new space?
 
 To allow two different systems to meet, in my case, it is a human creator/coder and a computer algorithm, a third independent system should be devised that will work as an interconnector. The connection lines running through all three would be supported by feedback loops, cross-communicating and coupling each other systems based on their internal rules and laws of functions. This third alternative glueing system I imagine to be generative space of pattern a.k.a. pieces of the puzzle.
 
